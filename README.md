@@ -43,10 +43,3 @@ To build and evaluate a classification model that predicts the creditworthiness 
 
 ---
 
-## 🛠️ Tech Stack
-- Python
-- Pandas & NumPy
-- Scikit-learn
-- Matplotlib
-
----
